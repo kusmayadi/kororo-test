@@ -4345,11 +4345,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/koes/Workspace/Test/kororo-test/KororoTest.csproj",
+      "projectUniqueName": "/home/koes/Workspace/Test/kororo-test/app/KororoTest.csproj",
       "projectName": "KororoTest",
-      "projectPath": "/home/koes/Workspace/Test/kororo-test/KororoTest.csproj",
+      "projectPath": "/home/koes/Workspace/Test/kororo-test/app/KororoTest.csproj",
       "packagesPath": "/home/koes/.nuget/packages/",
-      "outputPath": "/home/koes/Workspace/Test/kororo-test/obj/",
+      "outputPath": "/home/koes/Workspace/Test/kororo-test/app/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/koes/.nuget/NuGet/NuGet.Config"

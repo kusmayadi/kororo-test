@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rkv6XLqDaS9nCwAzhVtzY9eo9cXBtDakZcub5BSKY1ZWB4ot+UlzSMtrelHQyvQ8oT7JOsl3z0hHAo8B82pKIg==",
+  "dgSpecHash": "UjMazOI5rGPiOVn9hDl9hpKiEU+iyR84NX6b5mdH8JApR3Q4CBQO1RV2XsHjHYgntbo/VZtiUEkcSa9bnBdKQA==",
   "success": true,
-  "projectFilePath": "/home/koes/Workspace/Test/kororo-test/KororoTest.csproj",
+  "projectFilePath": "/home/koes/Workspace/Test/kororo-test/app/KororoTest.csproj",
   "expectedPackageFiles": [
     "/home/koes/.nuget/packages/anglesharp/0.17.1/anglesharp.0.17.1.nupkg.sha512",
     "/home/koes/.nuget/packages/anglesharp.css/0.17.0/anglesharp.css.0.17.0.nupkg.sha512",
